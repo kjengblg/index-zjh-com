@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kjengblg.github.io/index-zjh-com/sitemap.xml
